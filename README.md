@@ -5,6 +5,7 @@ npm install
 npm start
 ```
 
-![Animation](./images/gif.gif)
+<img src="./images/gif.gif" width="100%" />
+
 
 Happy Coding!
